@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "name": "Task1-BeautifyPetals",
+    "slug": "task1-beautifypetals",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "output": "static"
+    }
+  }
+}
